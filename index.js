@@ -71,7 +71,5 @@ http
   })
   .listen(8080);
 
-console.log(http)
-console.log(Unblocker)
 console.log(unblocker)
 console.log("Math Calculator Running Succesfully, Nice");
