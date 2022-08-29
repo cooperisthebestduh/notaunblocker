@@ -53,6 +53,9 @@ http
                 window.location.href = 'https://Proxy.ttrmaniac.repl.co/proxy/' + url;
               }
             </script>
+            <head>
+              <title>Proxy</title>
+            </head>
             <body>
             <div id='cont'>
               <h2>Proxy (Alpha)</h2>
@@ -72,4 +75,4 @@ http
   .listen(8080);
 
 console.log(unblocker)
-console.log("Math Calculator Running Succesfully, Nice");
+console.log("Proxy Running Succesfully, Nice");
