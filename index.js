@@ -60,7 +60,7 @@ http
             <div id='cont'>
               <h2>Proxy (Alpha)</h2>
               <form onsubmit="return false;">
-                <input id='url' type='url' placeholder='URL to website' autofocus></input>
+                <input id='url' type='url' placeholder='#####URL to website#########' autofocus></input>
                 <input id = 'sub' type='submit' value='Go!' onclick="loadProxy(document.getElementById('url').value)"></input>
               </form>
             </div>
